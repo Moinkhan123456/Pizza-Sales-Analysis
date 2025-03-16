@@ -67,6 +67,7 @@ Created calculated fields for KPI banners (Total Revenue, Orders, Avg Order Valu
 Derived custom fields for Top 5 & Bottom 5 pizzas by Revenue, Quantity, Orders.
 
 Data Visualization:
+<br>
 Utilized Tableau’s powerful visualization capabilities to build an interactive dashboard:
 
 Home Dashboard (Image 1):
