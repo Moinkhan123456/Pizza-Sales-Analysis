@@ -27,6 +27,19 @@ Avg Order Value = SUM(Total Price) / COUNTD(Order ID)
 <br>
 Avg Pizzas per Order = SUM(Quantity) / COUNTD(Order ID)
 
+Data Cleaning:
+Cleaning process was performed during data preparation:
+<br>
+Handled null values or blanks by:
+<br>
+Removing empty orders or incomplete rows.
+<br>
+Standardized category names like "Classic", "Supreme", "Veggie", etc.
+<br>
+Removed unnecessary columns which were not useful for visualization.
+<br>
+Ensured consistency in Pizza names (e.g., trimmed extra spaces, corrected naming inconsistencies).
+
 
 Analysis and create a dashboard report.
 
