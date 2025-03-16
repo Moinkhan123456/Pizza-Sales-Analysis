@@ -8,7 +8,6 @@ Attributes Included: Order ID, Order Date, Pizza Name, Pizza Category, Pizza Siz
 
 Data Modeling:
 Data modeling involves structuring the raw dataset to make it suitable for analysis:
-
 Imported the Pizza Sales dataset into Tableau.
 <br>
 Ensured that the data types for fields like:
