@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Pizza-Sales-Analysis (In Tableau Method)
 
 Data Source:
 <br>
