@@ -1,11 +1,12 @@
 # Pizza-Sales-Analysis
 
-1. Data Source:
+Data Source:
+<br>
 Dataset Used: Pizza Sales data (Date Range: 01-01-2015 to 31-12-2015)
 <br>
 Attributes Included: Order ID, Order Date, Pizza Name, Pizza Category, Pizza Size, Quantity, Price, Total Price, etc.
 
-2. Data Modeling:
+Data Modeling:
 <br>
 Data modeling involves structuring the raw dataset to make it suitable for analysis:
 <br>
@@ -27,7 +28,7 @@ Avg Order Value = SUM(Total Price) / COUNTD(Order ID)
 <br>
 Avg Pizzas per Order = SUM(Quantity) / COUNTD(Order ID)
 
-3. Data Cleaning:
+Data Cleaning:
 <br>
 Cleaning process was performed during data preparation:
 <br>
