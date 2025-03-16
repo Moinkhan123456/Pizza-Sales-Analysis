@@ -7,6 +7,7 @@ Dataset Used: Pizza Sales data (Date Range: 01-01-2015 to 31-12-2015)
 Attributes Included: Order ID, Order Date, Pizza Name, Pizza Category, Pizza Size, Quantity, Price, Total Price, etc.
 
 Data Modeling:
+<br>
 Data modeling involves structuring the raw dataset to make it suitable for analysis:
 <br>
 Imported the Pizza Sales dataset into Tableau.
@@ -28,6 +29,7 @@ Avg Order Value = SUM(Total Price) / COUNTD(Order ID)
 Avg Pizzas per Order = SUM(Quantity) / COUNTD(Order ID)
 
 Data Cleaning:
+<br>
 Cleaning process was performed during data preparation:
 <br>
 Handled null values or blanks by:
