@@ -20,18 +20,13 @@ Data modeling involves structuring the raw dataset to make it suitable for analy
    - **Avg Pizzas per Order = SUM(Quantity) / COUNTD(Order ID)**
 
 Data Cleaning:
-<br>
+
 Cleaning process was performed during data preparation:
-<br>
-Handled null values or blanks by:
-<br>
-Removing empty orders or incomplete rows.
-<br>
-Standardized category names like "Classic", "Supreme", "Veggie", etc.
-<br>
-Removed unnecessary columns which were not useful for visualization.
-<br>
-Ensured consistency in Pizza names (e.g., trimmed extra spaces, corrected naming inconsistencies).
+- **Handled null values or blanks by:**
+   - **Removing empty orders or incomplete rows.**
+- **Standardized category names like "Classic", "Supreme", "Veggie", etc.**
+- **Removed unnecessary columns which were not useful for visualization.**
+- **Ensured consistency in Pizza names (e.g., trimmed extra spaces, corrected naming inconsistencies).**
 
 Data Processing:
 <br>
