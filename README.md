@@ -32,25 +32,16 @@ Data Processing:
 <br>
 Processing steps included:
 
-Aggregated key metrics:
-<br>
-Total Revenue
-<br>
-Total Orders
-<br>
-Total Pizzas Sold
-<br>
-Average Order Value
-<br>
-Generated Week Number and Hour columns from the Order Date for trend analysis:
-<br>
-ISO week numbers used for weekly trend chart.
-<br>
-Extracted hour from Order Date timestamp for hourly analysis.
-<br>
-Created calculated fields for KPI banners (Total Revenue, Orders, Avg Order Value, etc.).
-<br>
-Derived custom fields for Top 5 & Bottom 5 pizzas by Revenue, Quantity, Orders.
+- **Aggregated key metrics:**
+   - **Total Revenue**
+   - **Total Orders**
+   - **Total Pizzas Sold**
+   - **Average Order Value**
+- **Generated Week Number and Hour columns from the Order Date for trend analysis:**
+   - **ISO week numbers used for weekly trend chart.**
+   - **Extracted hour from Order Date timestamp for hourly analysis.**
+- **Created calculated fields for KPI banners (Total Revenue, Orders, Avg Order Value, etc.).**
+- **Derived custom fields for Top 5 & Bottom 5 pizzas by Revenue, Quantity, Orders.**
 
 Data Visualization:
 <br>
