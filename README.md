@@ -48,32 +48,20 @@ Data Visualization:
 Utilized Tableau’s powerful visualization capabilities to build an interactive dashboard:
 
 Home Dashboard (Image 1):
-<br>
-KPI Metrics:
-<br>
-Total Revenue: $817.9K
-<br>
-Avg Order Value: $38.3
-<br>
-Total Pizzas Sold: 49.6K
-<br>
-Total Orders: 21.4K
-<br>
-Avg Pizzas per Order: 2.32
-<br>
-Trend Charts:
-<br>
-Hourly Trend of Pizzas Sold (Bar Chart) - Identifies peak hours (12 PM - 1 PM & 4 PM - 7 PM).
-<br>
-Weekly Trend of Total Orders (Line Chart) - Displays order trend across weeks.
-<br>
-Category-wise Sales:
-<br>
-Pie Chart showing % sales by Pizza Category (Chicken, Veggie, Supreme, Classic).
-<br>
-Bar Chart showing % sales by Pizza Size (Large, Medium, Small, X-Large).
-<br>
-Order & Pizza Sales by Category - Dual bar chart comparing total pizzas sold vs total orders.
+
+  - **KPI Metrics:**
+  - **Total Revenue: $817.9K**
+  - **Avg Order Value: $38.3**
+  - **Total Pizzas Sold: 49.6K**
+  - **Total Orders: 21.4K**
+  - **Avg Pizzas per Order: 2.32**
+- **Trend Charts:**
+  - **Hourly Trend of Pizzas Sold (Bar Chart) - Identifies peak hours (12 PM - 1 PM & 4 PM - 7 PM).**
+  - **Weekly Trend of Total Orders (Line Chart) - Displays order trend across weeks.**
+- **Category-wise Sales:**
+  - **Pie Chart showing % sales by Pizza Category (Chicken, Veggie, Supreme, Classic).**
+  - **Bar Chart showing % sales by Pizza Size (Large, Medium, Small, X-Large).**
+- **Order & Pizza Sales by Category - Dual bar chart comparing total pizzas sold vs total orders.**
 
 Analysis and create a dashboard report.
 
