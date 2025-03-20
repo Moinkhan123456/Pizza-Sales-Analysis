@@ -8,24 +8,16 @@ Data Source:
 Data Modeling:
 <br>
 Data modeling involves structuring the raw dataset to make it suitable for analysis:
-<br>
-Imported the Pizza Sales dataset into Tableau.
-<br>
-Ensured that the data types for fields like:
-<br>
-Order Date → Date format
-<br>
-Quantity, Total Price → Integer & Float
-<br>
-Pizza Category, Pizza Size, Pizza Name → String (Categorical)
-<br>
-Created logical relationships (joins/relationships not shown here) if required, but in this case, a single clean table sufficed.
-<br>
-Used calculated fields such as:
-<br>
-Avg Order Value = SUM(Total Price) / COUNTD(Order ID)
-<br>
-Avg Pizzas per Order = SUM(Quantity) / COUNTD(Order ID)
+
+- **Imported the Pizza Sales dataset into Tableau.
+- **Ensured that the data types for fields like:
+   - **Order Date → Date format
+   - **Quantity, Total Price → Integer & Float
+   - **Pizza Category, Pizza Size, Pizza Name → String (Categorical)
+- **Created logical relationships (joins/relationships not shown here) if required, but in this case, a single clean table sufficed.
+- **Used calculated fields such as:
+   - **Avg Order Value = SUM(Total Price) / COUNTD(Order ID)
+   - **Avg Pizzas per Order = SUM(Quantity) / COUNTD(Order ID)
 
 Data Cleaning:
 <br>
